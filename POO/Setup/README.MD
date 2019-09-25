@@ -1,7 +1,9 @@
 # Pasos para descargar, instalar y correr Visual studio code
 
 ## Paso 1: Verifica el sistema operativo de su computador antes de comenzar la descarga e instalación de Visual Studio Code.
-// foto
+
+![alt text] (C:\Users\artur\Pictures\Saved Pictures/Screenshot_1)
+
 ## Paso 2: Entrar a la página oficial de Visual studio code 
 ### https://code.visualstudio.com/
 
